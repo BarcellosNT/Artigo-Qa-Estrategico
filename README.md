@@ -1,5 +1,3 @@
-# Artigo-Qa-Estrategico
-
 # O QA Estratégico: Além da Automação, a Visão de Produto
 
 *Um manifesto sobre o papel do Quality Assurance no desenvolvimento de produtos digitais.*
